@@ -1,6 +1,6 @@
 # ReFungibleTokens-DeFi
 Creating Non Fungible Tokens and using it as Re Fungible Tokens.
-NFT Tokens are now being used more in DeFi space as an Asset [www.google.com](Google) with this link
+NFT Tokens are now being used more in DeFi space as an Asset.
 
 ### Project Workflow:
 - Creating ICO of Re Fungible Tokens.
